@@ -9,11 +9,6 @@
     tools:showIn="@layout/activity_main"
     tools:context="com.example.leo.listadapter.MainActivity">
 
-    <ListView xmlns:android="http://schemas.android.com/apk/res/android"
-        android:id="@+id/listview"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content" />
-
 
     <!--<TextView-->
         <!--android:layout_width="wrap_content"-->
